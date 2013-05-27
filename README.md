@@ -12,3 +12,7 @@ A straw poll during [#Polyglotconf](http://polyglotconf.com/) showed a lot of in
 ## Method for determining the above:
 
   - Send a pull request, discuss in issue comments
+
+## Repo rules
+
+We're going to apply the [Felix Hack](http://felixge.de/2013/03/11/the-pull-request-hack.html). Submit a sane PR, you get commit access.
