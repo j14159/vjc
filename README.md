@@ -2,6 +2,14 @@
 
 A straw poll during [#Polyglotconf](http://polyglotconf.com/) showed a lot of interest in attending a "Journal Club" to review interesting publications in the field.
 
+## Online Discussion
+
+Alex Cruise helpfully set up a [G+ Community](https://plus.google.com/u/0/communities/110886264051164890990) for this in lieu of massive Twitter hashtags.
+
+## Initial Meetings
+
+Offline face-to-face stuff solely at Polyglot beers for now, see the [main meetup page](http://www.meetup.com/PolyglotVancouver/) for now.
+
 ## Things TBD:
 
   - how to nominate papers
