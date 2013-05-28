@@ -9,7 +9,7 @@ Alex Cruise helpfully set up a [G+ Community](https://plus.google.com/u/0/commun
 ## Initial Meetings
 
 Offline face-to-face stuff solely at Polyglot beers for now, see the [main meetup page](http://www.meetup.com/PolyglotVancouver/) for now.
-First meeting is Tuesday June 2nd at [beers](http://www.meetup.com/PolyglotVancouver/events/120611402/). Let's stop discussing this online until then.
+First meeting is Tuesday June 4th at [beers](http://www.meetup.com/PolyglotVancouver/events/120611402/). Let's stop discussing this online until then.
 
 ## Things TBD:
 
